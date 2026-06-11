@@ -57,7 +57,7 @@ Healthcare Analytics
 
 # Security Architecture
 
-[ARCHITECTURE DIAGRAM IMAGE HERE]
+![lab architecture](architecture/arch.png).
 
 The environment was designed using a defense-in-depth approach:
 
@@ -242,6 +242,11 @@ Centralized SIEM implementation.
 [SENTINEL OVERVIEW SCREENSHOT HERE]
 
 ---
+## Data Flow
+
+![lab architecture](architecture/data.png).
+
+---
 
 ## Data Connectors
 
@@ -297,7 +302,7 @@ Microsoft Control
 
 Evidence
 
-[CONTROL MATRIX IMAGE HERE]
+![lab architecture](architecture/mapping.png).
 
 ---
 
